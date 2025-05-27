@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\725314\\OneDrive - hull.ac.uk\\Desktop\\MixedRealityFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A8AD17D-71C6-117E-816D-CA0ABDF524A5}|Assembly-CSharp.csproj|c:\\users\\725314\\onedrive - hull.ac.uk\\desktop\\mixedrealityfinal\\assets\\materials\\backfaceshader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{2A8AD17D-71C6-117E-816D-CA0ABDF524A5}|Assembly-CSharp.csproj|solutionrelative:assets\\materials\\backfaceshader.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A8AD17D-71C6-117E-816D-CA0ABDF524A5}|Assembly-CSharp.csproj|C:\\Users\\725314\\OneDrive - hull.ac.uk\\Desktop\\MixedRealityFinal\\assets\\materials\\glass.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{2A8AD17D-71C6-117E-816D-CA0ABDF524A5}|Assembly-CSharp.csproj|solutionrelative:assets\\materials\\glass.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BackfaceShader.shader",
+              "DocumentMoniker": "C:\\Users\\725314\\OneDrive - hull.ac.uk\\Desktop\\MixedRealityFinal\\Assets\\Materials\\BackfaceShader.shader",
+              "RelativeDocumentMoniker": "Assets\\Materials\\BackfaceShader.shader",
+              "ToolTip": "C:\\Users\\725314\\OneDrive - hull.ac.uk\\Desktop\\MixedRealityFinal\\Assets\\Materials\\BackfaceShader.shader",
+              "RelativeToolTip": "Assets\\Materials\\BackfaceShader.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-05-27T10:04:45.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Glass.shader",
+              "DocumentMoniker": "C:\\Users\\725314\\OneDrive - hull.ac.uk\\Desktop\\MixedRealityFinal\\Assets\\Materials\\Glass.shader",
+              "RelativeDocumentMoniker": "Assets\\Materials\\Glass.shader",
+              "ToolTip": "C:\\Users\\725314\\OneDrive - hull.ac.uk\\Desktop\\MixedRealityFinal\\Assets\\Materials\\Glass.shader",
+              "RelativeToolTip": "Assets\\Materials\\Glass.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-05-27T09:50:48.788Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
