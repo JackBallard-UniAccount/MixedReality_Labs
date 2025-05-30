@@ -1,29 +1,25 @@
 using UnityEngine;
-using System.Collections;
 
 public class MoveAndReorientToAnchor : MonoBehaviour
 {
     [Tooltip("The GameObject to move to this object's position.")]
     public GameObject targetObject;
 
-    [Tooltip("Delay in seconds to wait before moving the object.")]
-    public float waitSeconds = 0.5f;
-
     [Header("Optional Position and Rotation Offsets")]
     public Vector3 positionOffset;
     public Vector3 eulerRotationOffset;
 
-    void Start()
+    private void Awake()
     {
-        StartCoroutine(MoveAndReorient());
+        SpawnAndReorient();
     }
 
-    IEnumerator MoveAndReorient()
+    void SpawnAndReorient()
     {
-        yield return new WaitForSeconds(waitSeconds);
-
         if (targetObject != null)
         {
+            Instantiate(targetObject, transform.position, Quaternion.identity);
+
             // Move to anchor's position with offset
             targetObject.transform.position = transform.position + positionOffset;
 
