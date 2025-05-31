@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\725314\\OneDrive - hull.ac.uk\\Desktop\\MixedRealityFinal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2A8AD17D-71C6-117E-816D-CA0ABDF524A5}|Assembly-CSharp.csproj|c:\\users\\725314\\onedrive - hull.ac.uk\\desktop\\mixedrealityfinal\\assets\\scripts\\objectspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2A8AD17D-71C6-117E-816D-CA0ABDF524A5}|Assembly-CSharp.csproj|c:\\users\\725314\\onedrive - hull.ac.uk\\desktop\\mixedrealityfinal\\assets\\scripts\\pinmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A8AD17D-71C6-117E-816D-CA0ABDF524A5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pinmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A8AD17D-71C6-117E-816D-CA0ABDF524A5}|Assembly-CSharp.csproj|C:\\Users\\725314\\OneDrive - hull.ac.uk\\Desktop\\MixedRealityFinal\\assets\\scripts\\objectspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A8AD17D-71C6-117E-816D-CA0ABDF524A5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objectspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -35,6 +39,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PinManager.cs",
+              "DocumentMoniker": "C:\\Users\\725314\\OneDrive - hull.ac.uk\\Desktop\\MixedRealityFinal\\Assets\\Scripts\\PinManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PinManager.cs",
+              "ToolTip": "C:\\Users\\725314\\OneDrive - hull.ac.uk\\Desktop\\MixedRealityFinal\\Assets\\Scripts\\PinManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PinManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T10:45:34.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ObjectSpawner.cs",
               "DocumentMoniker": "C:\\Users\\725314\\OneDrive - hull.ac.uk\\Desktop\\MixedRealityFinal\\Assets\\Scripts\\ObjectSpawner.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ObjectSpawner.cs",
@@ -42,12 +59,11 @@
               "RelativeToolTip": "Assets\\Scripts\\ObjectSpawner.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T14:33:58.749Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-30T14:33:58.749Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "SceneMeshDepthMask.cs",
               "DocumentMoniker": "C:\\Users\\725314\\OneDrive - hull.ac.uk\\Desktop\\MixedRealityFinal\\Assets\\Scripts\\SceneMeshDepthMask.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SceneMeshDepthMask.cs",
@@ -55,12 +71,11 @@
               "RelativeToolTip": "Assets\\Scripts\\SceneMeshDepthMask.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T11:18:20.52Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-30T11:18:20.52Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "SceneMover.cs",
               "DocumentMoniker": "C:\\Users\\725314\\OneDrive - hull.ac.uk\\Desktop\\MixedRealityFinal\\Assets\\Scripts\\SceneMover.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SceneMover.cs",
@@ -68,12 +83,11 @@
               "RelativeToolTip": "Assets\\Scripts\\SceneMover.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T10:47:48.447Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-30T10:47:48.447Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "SkyboxOccluded.shader",
               "DocumentMoniker": "C:\\Users\\725314\\OneDrive - hull.ac.uk\\Desktop\\MixedRealityFinal\\Assets\\Materials\\SkyboxOccluded.shader",
               "RelativeDocumentMoniker": "Assets\\Materials\\SkyboxOccluded.shader",
@@ -81,12 +95,11 @@
               "RelativeToolTip": "Assets\\Materials\\SkyboxOccluded.shader",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2025-05-28T15:34:51.901Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-28T15:34:51.901Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Glass.shader",
               "DocumentMoniker": "C:\\Users\\725314\\OneDrive - hull.ac.uk\\Desktop\\MixedRealityFinal\\Assets\\Materials\\Glass.shader",
               "RelativeDocumentMoniker": "Assets\\Materials\\Glass.shader",
@@ -94,8 +107,7 @@
               "RelativeToolTip": "Assets\\Materials\\Glass.shader",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
-              "WhenOpened": "2025-05-27T09:50:48.788Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-27T09:50:48.788Z"
             }
           ]
         }
