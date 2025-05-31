@@ -308,7 +308,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -5.146, y: 0.897}
+  m_AnchoredPosition: {x: -4.417, y: 0.897}
   m_SizeDelta: {x: 99.83, y: 90}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &138395168312313914
@@ -339,7 +339,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 
+  m_text: 'ORIGIN POINT
+
+'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -2099,7 +2101,7 @@ Transform:
   m_GameObject: {fileID: 7444261027439615822}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1.499, y: 1.783, z: 0}
+  m_LocalPosition: {x: 3.747, y: 1.783, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 0.19182}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2118,7 +2120,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   objectToSpawn: {fileID: 8407658426361524784}
-  spawnRate: 1
+  spawnRate: 5
 --- !u!1 &7710574699513906421
 GameObject:
   m_ObjectHideFlags: 0
@@ -2173,7 +2175,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0b3f9640f279bf94088780edc9a0adb8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  MaskDepthBiasText: {fileID: 0}
+  MaskDepthBiasText: {fileID: 2997893503638182761}
   pins:
   - {fileID: 9031622503234843174}
   - {fileID: 9192279164337196919}
@@ -2898,8 +2900,8 @@ Transform:
   m_GameObject: {fileID: 8407658426361524784}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -3.204, y: 2.858, z: 0.1323558}
-  m_LocalScale: {x: 0.50501996, y: 0.50502, z: 0.50502}
+  m_LocalPosition: {x: 3.88, y: 0.481, z: 0.1323558}
+  m_LocalScale: {x: 0.26695353, y: 0.26695356, z: 0.26695356}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 9215995428957286790}
@@ -3019,7 +3021,7 @@ MonoBehaviour:
   _forwardElement: {fileID: 0}
   _oneGrabTransformer: {fileID: 0}
   _twoGrabTransformer: {fileID: 0}
-  _targetTransform: {fileID: 0}
+  _targetTransform: {fileID: 8914829351626802164}
   _maxGrabPoints: -1
   _rigidbody: {fileID: 3767060321023759539}
   _kinematicWhileSelected: 1
