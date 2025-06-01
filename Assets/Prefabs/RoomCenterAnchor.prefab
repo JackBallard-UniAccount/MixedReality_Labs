@@ -120,5 +120,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   targetObject: {fileID: 3439637173981055639, guid: 42e1fc57db6458443ad877ae14d4d869,
     type: 3}
-  positionOffset: {x: 0, y: 6, z: 0}
-  eulerRotationOffset: {x: 0, y: 90, z: 20}
+  positionOffset: {x: 0, y: 0.2, z: 0}
+  eulerRotationOffset: {x: 0, y: 90, z: 90}

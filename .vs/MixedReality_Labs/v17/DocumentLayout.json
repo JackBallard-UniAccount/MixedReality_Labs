@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\725314\\Workspace\\MixedReality_Labs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB31F2D-6247-DE71-D765-7B30218B146A}|Assembly-CSharp.csproj|C:\\Users\\725314\\Workspace\\MixedReality_Labs\\Assets\\Scripts\\PinManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB31F2D-6247-DE71-D765-7B30218B146A}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\PinManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB31F2D-6247-DE71-D765-7B30218B146A}|Assembly-CSharp.csproj|c:\\users\\725314\\workspace\\mixedreality_labs\\assets\\scripts\\scenemeshdepthmask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB31F2D-6247-DE71-D765-7B30218B146A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenemeshdepthmask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB31F2D-6247-DE71-D765-7B30218B146A}|Assembly-CSharp.csproj|C:\\Users\\725314\\Workspace\\MixedReality_Labs\\assets\\scripts\\objectspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB31F2D-6247-DE71-D765-7B30218B146A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objectspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB31F2D-6247-DE71-D765-7B30218B146A}|Assembly-CSharp.csproj|C:\\Users\\725314\\Workspace\\MixedReality_Labs\\assets\\scripts\\scenemover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB31F2D-6247-DE71-D765-7B30218B146A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenemover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SceneMeshDepthMask.cs",
+              "DocumentMoniker": "C:\\Users\\725314\\Workspace\\MixedReality_Labs\\Assets\\Scripts\\SceneMeshDepthMask.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneMeshDepthMask.cs",
+              "ToolTip": "C:\\Users\\725314\\Workspace\\MixedReality_Labs\\Assets\\Scripts\\SceneMeshDepthMask.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneMeshDepthMask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T15:54:49.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ObjectSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\725314\\Workspace\\MixedReality_Labs\\Assets\\Scripts\\ObjectSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ObjectSpawner.cs",
+              "ToolTip": "C:\\Users\\725314\\Workspace\\MixedReality_Labs\\Assets\\Scripts\\ObjectSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ObjectSpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T15:54:44.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PinManager.cs",
+              "DocumentMoniker": "C:\\Users\\725314\\Workspace\\MixedReality_Labs\\Assets\\Scripts\\PinManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PinManager.cs",
+              "ToolTip": "C:\\Users\\725314\\Workspace\\MixedReality_Labs\\Assets\\Scripts\\PinManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PinManager.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T15:21:42.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SceneMover.cs",
+              "DocumentMoniker": "C:\\Users\\725314\\Workspace\\MixedReality_Labs\\Assets\\Scripts\\SceneMover.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneMover.cs",
+              "ToolTip": "C:\\Users\\725314\\Workspace\\MixedReality_Labs\\Assets\\Scripts\\SceneMover.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneMover.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T14:41:36.027Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -18,14 +18,15 @@ public class MoveAndReorientToAnchor : MonoBehaviour
     {
         if (targetObject != null)
         {
-            Instantiate(targetObject, transform.position, Quaternion.identity);
+            // Instantiate and store reference to the new object
+            GameObject instance = Instantiate(targetObject, transform.position, Quaternion.identity);
 
             // Move to anchor's position with offset
-            targetObject.transform.position = transform.position + positionOffset;
+            instance.transform.position = transform.position + positionOffset;
 
             // Apply rotation offset
             Quaternion rotationOffset = Quaternion.Euler(eulerRotationOffset);
-            targetObject.transform.rotation = transform.rotation * rotationOffset;
+            instance.transform.rotation = transform.rotation * rotationOffset;
 
             // Disable the anchor object (this one)
             gameObject.SetActive(false);
