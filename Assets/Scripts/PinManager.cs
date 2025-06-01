@@ -6,7 +6,7 @@ using UnityEngine;
 public class PinManager : MonoBehaviour
 {
     [SerializeField] private OVRInput.RawButton _scoreCollect = OVRInput.RawButton.A;
-    public TextMeshProUGUI MaskDepthBiasText;
+    public TextMeshPro MaskDepthBiasText;
     private List<int> rolls = new List<int>();
     public List<GameObject> pins = new List<GameObject>();
 

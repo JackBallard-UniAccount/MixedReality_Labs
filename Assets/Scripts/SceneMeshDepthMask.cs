@@ -21,6 +21,7 @@ namespace DepthAPISample
         private void Awake()
         {
             _environmentDepthManager = FindAnyObjectByType<EnvironmentDepthManager>();
+            LoadRoomMesh();
         }
 
         private void LoadRoomMesh()
