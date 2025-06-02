@@ -11,6 +11,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/DepthMask.unity
     guid: aa4031e6275bbf44aae5f13c54b689d5
+  - enabled: 0
+    path: Assets/Scenes/Hand Test.unity
+    guid: abeca1679e8343d47b9a076350905b17
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: edcbbd2af7b4218499ffe2cb7909349e,
       type: 2}

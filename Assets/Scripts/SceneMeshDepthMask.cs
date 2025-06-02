@@ -18,9 +18,40 @@ namespace DepthAPISample
 
         private bool _isMaskOn;
 
+        private void Start()
+        {
+            StartCoroutine(InitializeMeshMask());
+        }
+
+        private IEnumerator<WaitForSeconds> InitializeMeshMask()
+        {
+            // Wait until MRUK and the current room are initialized
+            while (MRUK.Instance == null || MRUK.Instance.GetCurrentRoom() == null)
+            {
+                yield return new WaitForSeconds(0.1f);
+            }
+
+            // Wait until wall anchors and ceiling anchor are available
+            while (MRUK.Instance.GetCurrentRoom().WallAnchors.Count == 0 ||
+                   MRUK.Instance.GetCurrentRoom().CeilingAnchor == null)
+            {
+                yield return new WaitForSeconds(0.1f);
+            }
+
+            LoadRoomMesh();
+            _isMaskOn = true; // Mark mask as active by default
+        }
+
         private void Awake()
         {
             _environmentDepthManager = FindAnyObjectByType<EnvironmentDepthManager>();
+
+            //remove hands from the depth map
+            //_environmentDepthManager.RemoveHands = true;
+
+            //restore hands in the depth map
+            //_environmentDepthManager.RemoveHands = false;
+
         }
 
         private void LoadRoomMesh()

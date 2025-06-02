@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\725314\\Workspace\\MixedReality_Labs\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AEB31F2D-6247-DE71-D765-7B30218B146A}|Assembly-CSharp.csproj|C:\\Users\\725314\\Workspace\\MixedReality_Labs\\Assets\\Scripts\\PinManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEB31F2D-6247-DE71-D765-7B30218B146A}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\PinManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AEB31F2D-6247-DE71-D765-7B30218B146A}|Assembly-CSharp.csproj|c:\\users\\725314\\workspace\\mixedreality_labs\\assets\\scripts\\scenemeshdepthmask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AEB31F2D-6247-DE71-D765-7B30218B146A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenemeshdepthmask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB31F2D-6247-DE71-D765-7B30218B146A}|Assembly-CSharp.csproj|C:\\Users\\725314\\Workspace\\MixedReality_Labs\\assets\\scripts\\pinmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB31F2D-6247-DE71-D765-7B30218B146A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pinmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AEB31F2D-6247-DE71-D765-7B30218B146A}|Assembly-CSharp.csproj|C:\\Users\\725314\\Workspace\\MixedReality_Labs\\assets\\scripts\\objectspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,17 +26,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "SceneMeshDepthMask.cs",
               "DocumentMoniker": "C:\\Users\\725314\\Workspace\\MixedReality_Labs\\Assets\\Scripts\\SceneMeshDepthMask.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SceneMeshDepthMask.cs",
               "ToolTip": "C:\\Users\\725314\\Workspace\\MixedReality_Labs\\Assets\\Scripts\\SceneMeshDepthMask.cs",
               "RelativeToolTip": "Assets\\Scripts\\SceneMeshDepthMask.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwDQAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-31T15:54:49.249Z",
               "EditorCaption": ""
@@ -56,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "PinManager.cs",
               "DocumentMoniker": "C:\\Users\\725314\\Workspace\\MixedReality_Labs\\Assets\\Scripts\\PinManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PinManager.cs",
