@@ -63,8 +63,12 @@ namespace DepthAPISample
                 return;
             }
             _wallMeshFilters.Clear();
-            for (var i = 1; i < MRUK.Instance.GetCurrentRoom().WallAnchors.Count; i++)
+            for (var i = 0; i < MRUK.Instance.GetCurrentRoom().WallAnchors.Count; i++)
             {
+                if(i == 1)
+                {
+                    continue;
+                }
                 _wallMeshFilters.Add(MRUK.Instance.GetCurrentRoom().WallAnchors[i].gameObject.GetComponentInChildren<MeshFilter>());
             }
 

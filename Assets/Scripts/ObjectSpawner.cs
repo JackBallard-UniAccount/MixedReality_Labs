@@ -12,6 +12,7 @@ public class ObjectSpawner : MonoBehaviour
     void Start()
     {
         nextSpawnTime = Time.time + spawnRate;
+        SpawnObject();
     }
 
     // Update is called once per frame
@@ -19,12 +20,12 @@ public class ObjectSpawner : MonoBehaviour
     {
         if (Time.time >= nextSpawnTime)
         {
-            SpawnObject();
+            //SpawnObject();
             nextSpawnTime = Time.time + spawnRate;
         }
     }
 
-    void SpawnObject()
+    public void SpawnObject()
     {
         if(objectToSpawn != null)
         {

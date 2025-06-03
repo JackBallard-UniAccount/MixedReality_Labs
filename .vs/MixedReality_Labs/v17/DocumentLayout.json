@@ -3,28 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\725314\\Workspace\\MixedReality_Labs\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AEB31F2D-6247-DE71-D765-7B30218B146A}|Assembly-CSharp.csproj|c:\\users\\725314\\workspace\\mixedreality_labs\\assets\\materials\\skyboxoccluded.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{AEB31F2D-6247-DE71-D765-7B30218B146A}|Assembly-CSharp.csproj|solutionrelative:assets\\materials\\skyboxoccluded.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEB31F2D-6247-DE71-D765-7B30218B146A}|Assembly-CSharp.csproj|C:\\Users\\725314\\Workspace\\MixedReality_Labs\\assets\\scripts\\pinmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEB31F2D-6247-DE71-D765-7B30218B146A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pinmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEB31F2D-6247-DE71-D765-7B30218B146A}|Assembly-CSharp.csproj|c:\\users\\725314\\workspace\\mixedreality_labs\\assets\\scripts\\pinscipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEB31F2D-6247-DE71-D765-7B30218B146A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pinscipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AEB31F2D-6247-DE71-D765-7B30218B146A}|Assembly-CSharp.csproj|c:\\users\\725314\\workspace\\mixedreality_labs\\assets\\scripts\\scenemeshdepthmask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AEB31F2D-6247-DE71-D765-7B30218B146A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenemeshdepthmask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AEB31F2D-6247-DE71-D765-7B30218B146A}|Assembly-CSharp.csproj|c:\\users\\725314\\workspace\\mixedreality_labs\\assets\\scripts\\newpinmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB31F2D-6247-DE71-D765-7B30218B146A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\newpinmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AEB31F2D-6247-DE71-D765-7B30218B146A}|Assembly-CSharp.csproj|C:\\Users\\725314\\Workspace\\MixedReality_Labs\\assets\\scripts\\objectspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AEB31F2D-6247-DE71-D765-7B30218B146A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objectspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{AEB31F2D-6247-DE71-D765-7B30218B146A}|Assembly-CSharp.csproj|C:\\Users\\725314\\Workspace\\MixedReality_Labs\\assets\\scripts\\newpinscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB31F2D-6247-DE71-D765-7B30218B146A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\newpinscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB31F2D-6247-DE71-D765-7B30218B146A}|Assembly-CSharp.csproj|c:\\users\\725314\\workspace\\mixedreality_labs\\assets\\scripts\\gutterscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB31F2D-6247-DE71-D765-7B30218B146A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gutterscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB31F2D-6247-DE71-D765-7B30218B146A}|Assembly-CSharp.csproj|C:\\Users\\725314\\Workspace\\MixedReality_Labs\\assets\\scripts\\newbowlinglogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB31F2D-6247-DE71-D765-7B30218B146A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\newbowlinglogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AEB31F2D-6247-DE71-D765-7B30218B146A}|Assembly-CSharp.csproj|C:\\Users\\725314\\Workspace\\MixedReality_Labs\\assets\\scripts\\scenemover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AEB31F2D-6247-DE71-D765-7B30218B146A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenemover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB31F2D-6247-DE71-D765-7B30218B146A}|Assembly-CSharp.csproj|C:\\Users\\725314\\Workspace\\MixedReality_Labs\\assets\\materials\\skyboxoccluded.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{AEB31F2D-6247-DE71-D765-7B30218B146A}|Assembly-CSharp.csproj|solutionrelative:assets\\materials\\skyboxoccluded.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB31F2D-6247-DE71-D765-7B30218B146A}|Assembly-CSharp.csproj|C:\\Users\\725314\\Workspace\\MixedReality_Labs\\assets\\scripts\\scenemeshdepthmask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB31F2D-6247-DE71-D765-7B30218B146A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scenemeshdepthmask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB31F2D-6247-DE71-D765-7B30218B146A}|Assembly-CSharp.csproj|C:\\Users\\725314\\Workspace\\MixedReality_Labs\\assets\\scripts\\pinmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB31F2D-6247-DE71-D765-7B30218B146A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pinmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEB31F2D-6247-DE71-D765-7B30218B146A}|Assembly-CSharp.csproj|C:\\Users\\725314\\Workspace\\MixedReality_Labs\\assets\\scripts\\pinscipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEB31F2D-6247-DE71-D765-7B30218B146A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pinscipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +50,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GutterScript.cs",
+              "DocumentMoniker": "C:\\Users\\725314\\Workspace\\MixedReality_Labs\\Assets\\Scripts\\GutterScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GutterScript.cs",
+              "ToolTip": "C:\\Users\\725314\\Workspace\\MixedReality_Labs\\Assets\\Scripts\\GutterScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GutterScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:00:12.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NewBowlingLogic.cs",
+              "DocumentMoniker": "C:\\Users\\725314\\Workspace\\MixedReality_Labs\\Assets\\Scripts\\NewBowlingLogic.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NewBowlingLogic.cs",
+              "ToolTip": "C:\\Users\\725314\\Workspace\\MixedReality_Labs\\Assets\\Scripts\\NewBowlingLogic.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NewBowlingLogic.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwEoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T10:11:05.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "NewPinManager.cs",
+              "DocumentMoniker": "C:\\Users\\725314\\Workspace\\MixedReality_Labs\\Assets\\Scripts\\NewPinManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NewPinManager.cs",
+              "ToolTip": "C:\\Users\\725314\\Workspace\\MixedReality_Labs\\Assets\\Scripts\\NewPinManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NewPinManager.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAzwCwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T10:02:20.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewPinScript.cs",
+              "DocumentMoniker": "C:\\Users\\725314\\Workspace\\MixedReality_Labs\\Assets\\Scripts\\NewPinScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NewPinScript.cs",
+              "ToolTip": "C:\\Users\\725314\\Workspace\\MixedReality_Labs\\Assets\\Scripts\\NewPinScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NewPinScript.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T10:01:22.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "SkyboxOccluded.shader",
               "DocumentMoniker": "C:\\Users\\725314\\Workspace\\MixedReality_Labs\\Assets\\Materials\\SkyboxOccluded.shader",
               "RelativeDocumentMoniker": "Assets\\Materials\\SkyboxOccluded.shader",
@@ -51,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "PinScipt.cs",
               "DocumentMoniker": "C:\\Users\\725314\\Workspace\\MixedReality_Labs\\Assets\\Scripts\\PinScipt.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PinScipt.cs",
@@ -59,46 +127,43 @@
               "RelativeToolTip": "Assets\\Scripts\\PinScipt.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T16:40:40.762Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T16:40:40.762Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SceneMeshDepthMask.cs",
-              "DocumentMoniker": "C:\\Users\\725314\\Workspace\\MixedReality_Labs\\Assets\\Scripts\\SceneMeshDepthMask.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneMeshDepthMask.cs",
-              "ToolTip": "C:\\Users\\725314\\Workspace\\MixedReality_Labs\\Assets\\Scripts\\SceneMeshDepthMask.cs",
-              "RelativeToolTip": "Assets\\Scripts\\SceneMeshDepthMask.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAA8wDQAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T15:54:49.249Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ObjectSpawner.cs",
-              "DocumentMoniker": "C:\\Users\\725314\\Workspace\\MixedReality_Labs\\Assets\\Scripts\\ObjectSpawner.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ObjectSpawner.cs",
-              "ToolTip": "C:\\Users\\725314\\Workspace\\MixedReality_Labs\\Assets\\Scripts\\ObjectSpawner.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ObjectSpawner.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T15:54:44.972Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "PinManager.cs",
               "DocumentMoniker": "C:\\Users\\725314\\Workspace\\MixedReality_Labs\\Assets\\Scripts\\PinManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PinManager.cs",
               "ToolTip": "C:\\Users\\725314\\Workspace\\MixedReality_Labs\\Assets\\Scripts\\PinManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\PinManager.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAgwDQAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-01T15:21:42.535Z",
+              "WhenOpened": "2025-06-01T15:21:42.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SceneMeshDepthMask.cs",
+              "DocumentMoniker": "C:\\Users\\725314\\Workspace\\MixedReality_Labs\\Assets\\Scripts\\SceneMeshDepthMask.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneMeshDepthMask.cs",
+              "ToolTip": "C:\\Users\\725314\\Workspace\\MixedReality_Labs\\Assets\\Scripts\\SceneMeshDepthMask.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneMeshDepthMask.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwEUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T15:54:49.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ObjectSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\725314\\Workspace\\MixedReality_Labs\\Assets\\Scripts\\ObjectSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ObjectSpawner.cs",
+              "ToolTip": "C:\\Users\\725314\\Workspace\\MixedReality_Labs\\Assets\\Scripts\\ObjectSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ObjectSpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T15:54:44.972Z",
               "EditorCaption": ""
             },
             {
